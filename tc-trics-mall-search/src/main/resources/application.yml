@@ -1,0 +1,25 @@
+server:
+  port: 10087
+spring:
+  profiles:
+      active: dev
+  application:
+    name: search-service
+##mybaties配置
+#mybatis:
+#  # 实体类扫描路径
+#  type-aliases-package: com.manage.asset.*.domain
+#  # xml 扫描路径
+#  mapper-locations: classpath*:mapper/**/*.xml
+#  configuration:
+#    jdbc-type-for-null: null
+#  global-config:
+#    # 关闭 mybatis-plus的 banner
+#    banner: false
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:10086/eureka
+  instance:
+    ip-address: 127.0.0.1
+    prefer-ip-address: true

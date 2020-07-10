@@ -21,7 +21,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="tc-trics-mall-getway" target="1.5" />
+      <module name="tc-trics-mall-getway" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
