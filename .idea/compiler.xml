@@ -12,7 +12,6 @@
         <module name="tc-trics-mall-common" />
         <module name="tc-trics-mall-config" />
         <module name="tc-trics-mall-eureka" />
-        <module name="tc-trics-mall-getway" />
         <module name="tc-trics-mall-item" />
         <module name="tc-trics-mall-search" />
         <module name="tc-trics-mall-upload" />
