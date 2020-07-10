@@ -14,7 +14,6 @@
         <module>tc-trics-mall-backstage</module>
         <module>tc-trics-mall-config</module>
         <module>tc-trics-mall-user</module>
-        <module>tc-trics-mall-getway</module>
         <module>tc-trics-mall-common</module>
         <module>tc-trics-mall-cart</module>
         <module>tc-trics-mall-item</module>
